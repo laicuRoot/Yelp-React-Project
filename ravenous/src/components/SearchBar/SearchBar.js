@@ -15,6 +15,7 @@ class SearchBar extends React.Component{
         });
     };
     render(){
+        return (
         <div className="SearchBar">
             <div className="SearchBar-sort-options">
                 <ul>
@@ -26,9 +27,10 @@ class SearchBar extends React.Component{
                 <input placeholder="Where?"/>
             </div>
             <div class="SearchBar-submit">
-                <a>Let's Go</a>
+                <a href="#">Let's Go</a>
             </div>
         </div>
+        )
     }
 };
 
