@@ -4,12 +4,12 @@ First project using React and fetching data from Yelp API following Codecademy g
 
 # How to run the project:
 
-Download the project using the ![#c5f015]`Code` button above. You have two options: 
+Download the project using the **`Code`** button above. You have two options: 
   
   - Download it as zip file
   - Open it with GitHub Desktop
 
-To start the project once is dowloaded run in the terminal the follwing script: 
+To start the project once is dowloaded run in the **terminal** the following script: 
 
 ## npm start
 
@@ -28,4 +28,4 @@ The project is based in 4 main components:
   - BusinessList component
   - SearchBar component
 
-
+Project created by **LaicuRoot** as part of Codecademy web development learning path. 
