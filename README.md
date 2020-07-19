@@ -13,9 +13,9 @@ Download the project using the **`Code`** button above. You have two options:
 
 To start the project once is dowloaded run in the **terminal** the following script: 
 
-### npm start
+### npm install
 
-Run "npm install", then run "npm start".
+### Then run "npm start"
 
 If you don't want to wait for `npm install` to finish for every directory, you can copy the `node_modules` directory from one to another.
 
