@@ -15,6 +15,10 @@ To start the project once is dowloaded run in the **terminal** the following scr
 
 ### npm start
 
+Run "npm install", then run "npm start".
+
+If you don't want to wait for `npm install` to finish for every directory, you can copy the `node_modules` directory from one to another.
+
 It runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
